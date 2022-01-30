@@ -1,0 +1,95 @@
+﻿{
+	"Name": "default",
+	"Activities": {
+		"1": {
+			"Name": "Сон",
+			"PanelBackgroundColor": "#000000",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"2": {
+			"Name": "Работа",
+			"PanelBackgroundColor": "#185499",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"3": {
+			"Name": "Проекты",
+			"PanelBackgroundColor": "#1B5DAA",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"4": {
+			"Name": "Дом",
+			"PanelBackgroundColor": "#1E67BD",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"5": {
+			"Name": "Чтение",
+			"PanelBackgroundColor": "#2172D2",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"6": {
+			"Name": "Спорт",
+			"PanelBackgroundColor": "#3080DE",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"7": {
+			"Name": "Игра",
+			"PanelBackgroundColor": "#4A90E2",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"8": {
+			"Name": "Отдых",
+			"PanelBackgroundColor": "#64A0E6",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"9": {
+			"Name": "Еда",
+			"PanelBackgroundColor": "#80B1EB",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		},
+		"10": {
+			"Name": "Другое",
+			"PanelBackgroundColor": "#9FC4F0",
+			"LblForeColor": "#FFFFFF",
+			"TimerForeColor": "#FFFFFF",
+			"PanelHoveredBackgroundColor": "#F0E68C",
+			"LblHoveredForeColor": "#000000",
+			"TimerHoveredForeColor": "#000000"
+		}
+	}
+}

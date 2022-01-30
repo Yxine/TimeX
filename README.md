@@ -1,2 +1,5 @@
 # TimeX
-Time allocation calculator
+
+> Version 30.01.2022
+
+Time allocation calculator.
